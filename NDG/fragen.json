@@ -1,0 +1,233 @@
+[
+    {
+        "question": "Was meint der Begriff 'Geplante Obsoleszenz'?",
+        "options": {
+            "a": "Bedürfnis nach etwas neuem, obwohl die genutzten Produkte noch funktionstüchtig sind",
+            "b": "Illegale Elektroschrottexporte",
+            "c": "Umweltkontamination beim Hinterhofrecycling",
+            "d": "Den vorzeitigen Verschleiß, bzw. eine kürzere Nutzungsdauer eines Produktes"
+        },
+        "correct": ["d"],
+        "points": 1.0
+    },
+    {
+        "question": "Was regelt das Lieferkettensorgfaltspflichtengesetz?",
+        "options": {
+            "a": "Recht auf faire Löhne",
+            "b": "Schutz vor Kinderarbeit",
+            "c": "Qualität recycelter Produkte",
+            "d": "Schutz der Umwelt"
+        },
+        "correct": ["a", "b", "d"],
+        "points": 1.0
+    },
+    {
+        "question": "Was ist kein Vorteil des Einsatzes der Digitalisierung im Agrarsektor?",
+        "options": {
+            "a": "Bessere Qualität der Lebensmittel",
+            "b": "Verringerung der Umweltwirkungen",
+            "c": "Steigerung der Produktivität",
+            "d": "Kosten für die Implementierung von Digitalisierungsmethoden"
+        },
+        "correct": ["d"],
+        "points": 1.0
+    },
+    {
+        "question": "Welche Probleme existieren bei der Herstellung und Nutzung moderner Technologien?",
+        "options": {
+            "a": "Energieverbrauch digitaler Technologien kann deren Einsparungen übersteigen",
+            "b": "Limitierte Verfügbarkeit bestimmter Materialien und Rohstoffe",
+            "c": "Vermeidung von Abfall und Verschwendung",
+            "d": "Rohstoffe werden oftmals unter fragwürdigen Bedingungen abgebaut"
+        },
+        "correct": ["a", "b", "d"],
+        "points": 1.0
+    },
+    {
+        "question": "Daten werden umgangssprachlich oft auch als .... bezeichnet.",
+        "options": {
+            "a": "Das neue Rohöl",
+            "b": "Das neue Gold",
+            "c": "Der neue Wasserstoff",
+            "d": "Das neue Edelmetall"
+        },
+        "correct": ["a"],
+        "points": 1.0
+    },
+    {
+        "question": "Welche Aussagen zu Trollfabriken sind korrekt?",
+        "options": {
+            "a": "Trollfabriken bekämpfen Greenwashing.",
+            "b": "In Trollfabriken werden mittels verifizierter Accounts wissenschaftliche Berichte für die sozialen Medien erstellt.",
+            "c": "Trollfabriken sind Organisationen, die systematisch Falschnachrichten bekämpfen.",
+            "d": "Trollfabriken sind Organisationen, die systematisch und koordiniert in sozialen Netzwerken oder Online-Plattformen Falschinformationen und Propaganda verbreiten."
+        },
+        "correct": ["d"],
+        "points": 1.0
+    },
+    {
+        "question": "Was sind Gründe dafür, dass Opfer eines Ransomware-Angriffs nicht auf die Zahlung eines Lösegelds eingehen sollten?",
+        "options": {
+            "a": "Die verschlüsselten Daten lassen sich häufig leicht wieder entschlüsseln und machen die Zahlung eines Lösegelds daher nicht notwendig.",
+            "b": "Es gibt keine Garantie, dass die Daten tatsächlich freigegeben werden",
+            "c": "Einmal ausgeleitete Daten sind grundsätzlich als kompromittiert zu betrachten",
+            "d": "Es besteht die Möglichkeit, dass ein fehlerhaftes Entschlüsselungstool bereitgestellt wird"
+        },
+        "correct": ["b", "c", "d"],
+        "points": 1.0
+    },
+    {
+        "question": "Welches ist keines der Schutzziele von IT-Security?",
+        "options": {
+            "a": "Integrität",
+            "b": "Verfügbarkeit",
+            "c": "Vertraulichkeit",
+            "d": "Offenheit"
+        },
+        "correct": ["d"],
+        "points": 1.0
+    },
+    {
+        "question": "Was sind mögliche Maßnahmen zur Einsparung von Energie in Städten?",
+        "options": {
+            "a": "Ausbau des Personennahverkehrs",
+            "b": "Sanierung von Altbauten",
+            "c": "Schaffung einer höheren Baudichte",
+            "d": "Einführung eines Tempolimits"
+        },
+        "correct": ["a", "b", "c", "d"],
+        "points": 1.0
+    },
+    {
+        "question": "Warum ist Credibility für die Anwendung von digitalen Technologien relevant?",
+        "options": {
+            "a": "Credibility ist eine notwendige Voraussetzung, um die Akzeptanz für digitale Technologien zu schaffen",
+            "b": "Credibility ist eine notwendige Voraussetzung, um Elektrofahrzeuge mit dem Stromnetz zu verbinden",
+            "c": "Credibility ist eine notwendige Voraussetzung, um die Anwendung von digitalen Technologien zu fördern",
+            "d": "Credibility ist eine notwendige Voraussetzung, um Greenwashing zu betreiben"
+        },
+        "correct": ["a", "c"],
+        "points": 1.0
+    },
+    {
+        "question": "Welcher dieser Begriffe ist keine Eigenschaft erneuerbarer Energien?",
+        "options": {
+            "a": "Dezentralisierung",
+            "b": "Partizipation",
+            "c": "Smart Meter",
+            "d": "Volatilität"
+        },
+        "correct": ["c"],
+        "points": 1.0
+    },
+    {
+        "question": "Welche Aussage zur künstlichen Intelligenz (KI) ist korrekt?",
+        "options": {
+            "a": "KI-Modelle haben ein Bewusstsein.",
+            "b": "KI-Modelle verstehen die Welt so wie wir Menschen.",
+            "c": "KI-Modelle sagen das wahrscheinlichste nächste Wort voraus.",
+            "d": "KI-Modelle wissen, was wahr und was falsch ist."
+        },
+        "correct": ["c"],
+        "points": 1.0
+    },
+    {
+        "question": "Welches der folgenden Beispiele ist kein Rebound-Effekt?",
+        "options": {
+            "a": "Man kauft ein effizienteres Auto und fährt dafür mehr Kilometer.",
+            "b": "Man kauft eine effizientere Waschmaschine und nutzt das gesparte Geld für einen Flug.",
+            "c": "Man kauft ein effizienteres Leuchtmittel und lässt es länger brennen.",
+            "d": "Man ersetzt eine alte Waschmaschine durch eine neue, effizientere Waschmaschine."
+        },
+        "correct": ["d"],
+        "points": 1.0
+    },
+    {
+        "question": "Was sind Merkmale einer Smart City?",
+        "options": {
+            "a": "Einsatz von Informations- und Kommunikationstechnologien",
+            "b": "Effizienzsteigerung der städtischen Infrastruktur",
+            "c": "Bürgerbeteiligung",
+            "d": "Nachhaltigkeit"
+        },
+        "correct": ["a", "b", "c", "d"],
+        "points": 1.0
+    },
+    {
+        "question": "Was versteht man unter dem Begriff 'Greenwashing'?",
+        "options": {
+            "a": "Besonders umweltfreundliche Produktion",
+            "b": "Das Reinigen von Hardware mit ökologischen Mitteln",
+            "c": "Sich durch Marketing und PR ein umweltfreundliches Image verleihen, ohne entsprechende Maßnahmen umzusetzen",
+            "d": "Die Nutzung von Ökostrom im Rechenzentrum"
+        },
+        "correct": ["c"],
+        "points": 1.0
+    },
+    {
+        "question": "Welcher Sektor verursacht weltweit die meisten CO2-Emissionen?",
+        "options": {
+            "a": "Verkehr",
+            "b": "Landwirtschaft",
+            "c": "Energieerzeugung",
+            "d": "Industrie"
+        },
+        "correct": ["c"],
+        "points": 1.0
+    },
+    {
+        "question": "Was beschreibt das Prinzip der Kreislaufwirtschaft?",
+        "options": {
+            "a": "Produkte werden nach der Nutzung direkt entsorgt.",
+            "b": "Ressourcen werden so lange wie möglich im System gehalten.",
+            "c": "Stetiges Wirtschaftswachstum durch Ressourcenverbrauch.",
+            "d": "Export von Abfällen in andere Länder."
+        },
+        "correct": ["b"],
+        "points": 1.0
+    },
+    {
+        "question": "Was ist das Hauptziel des Pariser Klimaabkommens?",
+        "options": {
+            "a": "Förderung des Kohleabbaus",
+            "b": "Begrenzung der globalen Erwärmung auf deutlich unter 2 Grad Celsius",
+            "c": "Abschaffung aller Steuern auf Benzin",
+            "d": "Digitalisierung der Weltmeere"
+        },
+        "correct": ["b"],
+        "points": 1.0
+    },
+    {
+        "question": "Was ist eine 'Smart Grid'?",
+        "options": {
+            "a": "Ein besonders schnelles Internetkabel",
+            "b": "Ein intelligentes Stromnetz, das Erzeugung, Speicherung und Verbrauch steuert",
+            "c": "Ein Netzwerk aus smarten Kühlschränken",
+            "d": "Ein geschlossenes System für Kryptowährungen"
+        },
+        "correct": ["b"],
+        "points": 1.0
+    },
+    {
+        "question": "Was sind Bestandteile der digitalen Souveränität?",
+        "options": {
+            "a": "Selbstbestimmung über eigene Daten",
+            "b": "Abhängigkeit von einzelnen großen Tech-Konzernen",
+            "c": "Fähigkeit, digitale Systeme sicher zu nutzen",
+            "d": "Verfügbarkeit von Open-Source-Alternativen"
+        },
+        "correct": ["a", "c", "d"],
+        "points": 1.0
+    },
+    {
+        "question": "Was versteht man unter 'Suffizienz' im Kontext der Nachhaltigkeit?",
+        "options": {
+            "a": "Steigerung der Effizienz durch Technik",
+            "b": "Das Bemühen um einen möglichst geringen Rohstoff- und Energieverbrauch",
+            "c": "Die Nutzung von Ersatzstoffen",
+            "d": "Die Erhöhung der Produktionsgeschwindigkeit"
+        },
+        "correct": ["b"],
+        "points": 1.0
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "question": "Was meint der Begriff 'Geplante Obsoleszenz'?",
+        "options": {
+            "a": "Bedürfnis nach etwas neuem, obwohl die genutzten Produkte noch funktionstüchtig sind",
+            "b": "Illegale Elektroschrottexporte",
+            "c": "Umweltkontamination beim Hinterhofrecycling",
+            "d": "Den vorzeitigen Verschleiß, bzw. eine kürzere Nutzungsdauer eines Produktes"
+        },
+        "correct": ["d"],
+        "points": 1.0
+    },
+    {
+        "question": "Welche dieser Datentypen sind veränderlich (mutable)?",
+        "options": {
+            "a": "List",
+            "b": "Tuple",
+            "c": "Dictionary",
+            "d": "Set"
+        },
+        "correct": ["a", "c", "d"],
+        "points": 2.0
+    }
+]
