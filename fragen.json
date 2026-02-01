@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Was meint der Begriff 'Geplante Obsoleszenz'?",
+    "options": {
+      "a": "Bedürfnis nach etwas neuem, obwohl die genutzten Produkte noch funktionstüchtig sind",
+      "b": "Illegale Elektroschrottexporte",
+      "c": "Umweltkontamination beim Hinterhofrecycling",
+      "d": "Den vorzeitigen Verschleiß, bzw. eine kürzere Nutzungsdauer eines Produktes"
+    },
+    "correct": ["d"],
+    "points": 1.0
+  },
+  {
+    "question": "Was regelt das Lieferkettensorgfaltspflichtengesetz?",
+    "options": {
+      "a": "Recht auf faire Löhne",
+      "b": "Schutz vor Kinderarbeit",
+      "c": "Qualität recycelter Produkte",
+      "d": "Schutz der Umwelt"
+    },
+    "correct": ["a", "b", "d"],
+    "points": 1.0
+  },
+  {
+    "question": "Was ist kein Vorteil des Einsatzes der Digitalisierung im Agrarsektor?",
+    "options": {
+      "a": "Bessere Qualität der Lebensmittel",
+      "b": "Verringerung der Umweltwirkungen",
+      "c": "Steigerung der Produktivität",
+      "d": "Kosten für die Implementierung von Digitalisierungsmethoden"
+    },
+    "correct": ["d"],
+    "points": 1.0
+  },
+  {
+    "question": "Welche Probleme existieren bei der Herstellung und Nutzung moderner Technologien?",
+    "options": {
+      "a": "Energieverbrauch digitaler Technologien kann deren Einsparungen übersteigen",
+      "b": "Limitierte Verfügbarkeit bestimmter Materialien und Rohstoffe",
+      "c": "Vermeidung von Abfall und Verschwendung",
+      "d": "Rohstoffe werden oftmals unter fragwürdigen Bedingungen abgebaut"
+    },
+    "correct": ["a", "b", "d"],
+    "points": 1.0
+  },
+  {
+    "question": "Daten werden umgangssprachlich oft auch als .... bezeichnet.",
+    "options": {
+      "a": "Das neue Rohöl",
+      "b": "Das neue Gold",
+      "c": "Der neue Wasserstoff",
+      "d": "Das neue Edelmetall"
+    },
+    "correct": ["a"],
+    "points": 1.0
+  },
+  {
+    "question": "Welche Aussagen zu Trollfabriken sind korrekt?",
+    "options": {
+      "a": "Trollfabriken bekämpfen Greenwashing.",
+      "b": "In Trollfabriken werden mittels verifizierter Accounts wissenschaftliche Berichte für die sozialen Medien erstellt.",
+      "c": "Trollfabriken sind Organisationen, die systematisch Falschnachrichten bekämpfen.",
+      "d": "Trollfabriken sind Organisationen, die systematisch und koordiniert in sozialen Netzwerken oder Online-Plattformen Falschinformationen und Propaganda verbreiten."
+    },
+    "correct": ["d"],
+    "points": 1.0
+  },
+  {
+    "question": "Was sind Gründe dafür, dass Opfer eines Ransomware-Angriffs nicht auf die Zahlung eines Lösegelds eingehen sollten?",
+    "options": {
+      "a": "Die verschlüsselten Daten lassen sich häufig leicht wieder entschlüsseln und machen die Zahlung eines Lösegelds daher nicht notwendig.",
+      "b": "Es gibt keine Garantie, dass die Daten tatsächlich freigegeben werden",
+      "c": "Einmal ausgeleitete Daten sind grundsätzlich als kompromittiert zu betrachten",
+      "d": "Es besteht die Möglichkeit, dass ein fehlerhaftes Entschlüsselungstool bereitgestellt wird"
+    },
+    "correct": ["b", "c", "d"],
+    "points": 1.0
+  },
+  {
+    "question": "Welches ist keines der Schutzziele von IT-Security?",
+    "options": {
+      "a": "Integrität",
+      "b": "Verfügbarkeit",
+      "c": "Vertraulichkeit",
+      "d": "Offenheit"
+    },
+    "correct": ["d"],
+    "points": 1.0
+  },
+  {
+    "question": "Was sind mögliche Maßnahmen zur Einsparung von Energie in Städten?",
+    "options": {
+      "a": "Ausbau des Personennahverkehrs",
+      "b": "Sanierung von Altbauten",
+      "c": "Schaffung einer höheren Baudichte",
+      "d": "Einführung eines Tempolimits"
+    },
+    "correct": ["a", "b", "c", "d"],
+    "points": 1.0
+  },
+  {
+    "question": "Warum ist Credibility für die Anwendung von digitalen Technologien relevant?",
+    "options": {
+      "a": "Credibility ist eine notwendige Voraussetzung, um die Akzeptanz für digitale Technologien zu schaffen",
+      "b": "Credibility ist eine notwendige Voraussetzung, um Elektrofahrzeuge mit dem Stromnetz zu verbinden",
+      "c": "Credibility ist eine notwendige Voraussetzung, um die Anwendung von digitalen Technologien zu fördern",
+      "d": "Credibility ist eine notwendige Voraussetzung, um Greenwashing zu betreiben"
+    },
+    "correct": ["a", "c"],
+    "points": 1.0
+  }
+]
